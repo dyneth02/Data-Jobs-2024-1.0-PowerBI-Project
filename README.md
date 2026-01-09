@@ -23,7 +23,7 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 <p align="center">
     <img src="https://github.com/dyneth02/Data-Jobs-2024-1.0-PowerBI-Project/blob/main/screenshots/Screenshot%202026-01-10%20001445.png">
-</p>p
+</p>
 
 ---
 
